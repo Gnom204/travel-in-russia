@@ -1,0 +1,10 @@
+.places__text-container {
+    align-self: flex-start;
+    max-width: 484px;
+}
+
+@media screen and (max-width: 632px) {
+    .places__text-container {
+        margin: 0 16px;
+    }
+}

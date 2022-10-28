@@ -1,0 +1,13 @@
+.intro__info-container {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 12px;
+    line-height: 18px;
+    font-family: 'inter', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+}

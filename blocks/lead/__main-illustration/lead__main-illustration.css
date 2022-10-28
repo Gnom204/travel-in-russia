@@ -1,0 +1,6 @@
+.lead__main-illustration {
+    background-position: center;
+    object-fit: contain;
+    width: 100%;
+    margin: 64px auto 0;
+}
