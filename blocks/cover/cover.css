@@ -1,16 +1,22 @@
 .cover {
     font-family: 'inter', Arial, Helvetica, sans-serif;
-    margin-bottom: 92px;
+    margin: 0 48px 92px;
+}
+
+@media screen and (max-width: 1184px) {
+    .cover {
+        margin: 0 0 92px;
+    }
 }
 
 @media screen and (max-width: 976px) {
     .cover {
-        margin-bottom: 88px;
+        margin: 0 0 88px;
     }
 }
 
 @media screen and (max-width: 632px) {
     .cover {
-        margin-bottom: 64px;
+        margin: 0 0 64px;
     }
 }

@@ -3,7 +3,7 @@
     font-size: 18px;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     line-height: 22px;
-    opacity: 1;
+    transition: opacity 0.5s ease;
 }
 
 .places__link:hover {

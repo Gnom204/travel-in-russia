@@ -1,6 +1,8 @@
-.places__type {
-    font-size: 12px;
-    line-height: 12px;
-    letter-spacing: 2px;
-    color: var(--url-color);
-}
+    .places__type {
+        font-size: 12px;
+        line-height: 12px;
+        letter-spacing: 2px;
+        color: var(--url-color);
+        text-transform: uppercase;
+        margin: 0 0 12px 0;
+    }

@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     list-style-type: none;
+    column-gap: 18px;
 }
 
 @media screen and (max-width: 612px) {
