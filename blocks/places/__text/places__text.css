@@ -7,8 +7,8 @@
     margin: 0 0 25px;
 }
 
-.places__text:last-child{
-    margin:0;
+.places__text:last-child {
+    margin: 0;
 }
 
 @media screen and (max-width: 976px) {

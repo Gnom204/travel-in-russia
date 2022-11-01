@@ -20,14 +20,14 @@
 
 @media screen and (max-width: 976px) {
     .places__item {
-        grid-template-columns: fit-content(340px) 1fr;
+        grid-template-columns: 47.3% 1fr;
         margin: 0 0 73px;
         column-gap: 28px;
 
     }
 }
 
-@media screen and (max-width:632px) {
+@media screen and (max-width: 632px) {
     .places__item {
         grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
         row-gap: 32px;

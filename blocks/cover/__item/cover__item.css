@@ -17,19 +17,19 @@
     padding: 0;
 }
 
-@media screen and (max-width:1184px) {
+@media screen and (max-width: 1184px) {
     .cover__item {
         min-height: 640px;
     }
 }
 
-@media screen and (max-width:984px) {
+@media screen and (max-width: 976px) {
     .cover__item {
         min-height: 480px;
     }
 }
 
-@media screen and (max-width:568px) {
+@media screen and (max-width: 632px) {
     .cover__item {
         min-height: 200px;
     }
