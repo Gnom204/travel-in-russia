@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-[Ссылка на проект:](https://gnom204.github.io/russian-travel/)
+[Ссылка на проект:](https://gnom204.github.io/travel-in-russia/)
 
 ### Обзор
 * Интро
