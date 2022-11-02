@@ -7,3 +7,9 @@
     max-width: 1280px;
     margin: auto;
 }
+
+@media screen and (max-width: 337px) {
+    .page {
+        overflow-x: hidden;
+    }
+}
